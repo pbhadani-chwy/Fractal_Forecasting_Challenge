@@ -14,3 +14,10 @@ In order to improve your logistics, you want to predict the median trade prices 
 happening (at item level) on the exchange. You can then plan to then use these predictions to create an optimized inventory strategy. 
 
 We are expected to create trade forecasts for all items being traded on Antallagma along with the trade prices for a period of 6 months. 
+
+## Solution
+We will show the solution for one item from the entire dataset. The methods can be replicated for all other items.
+
+As we can infer from the problem statement and the dataset(check my dataset folder) this problem belongs to forecasting price and the volume of the item sold. 
+So for solving this challange, we can go for traditional but efficient ARMA model, which could capture the trend or any seosonality in the trading goods price and volume of the item sold. But considering the simplicity as well as the efficiency of the Recurrent Neural Network (RNN) I have decided to go for this state of art approach method.
+
