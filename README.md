@@ -21,3 +21,6 @@ We will show the solution for one item from the entire dataset. The methods can 
 As we can infer from the problem statement and the dataset(check my dataset folder) this problem belongs to forecasting price and the volume of the item sold. 
 So for solving this challange, we can go for traditional but efficient ARMA model, which could capture the trend or any seosonality in the trading goods price and volume of the item sold. But considering the simplicity as well as the efficiency of the Recurrent Neural Network (RNN) I have decided to go for this state of art approach method.
 
+Let us first visualize the trend of the price variation and volume of item sold for a single item.
+
+
