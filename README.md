@@ -33,14 +33,14 @@ Let us see how RNN can come to a rescue and you will be amazed (so was I) that h
 I have only study the trend for only single item from the entire dataset, but the entire logic can be extended for other items too without any major in the logic. Please refer to my code for the entire logic.
 
 ### Hperparameter used
-look_back = 7 days. 
-optimizer (gradient function) = 'adam' 
+look_back = 7 days. --
+optimizer (gradient function) = 'adam' --
 loss function = 'mean_squared_error' 
 batch_size = 32
 
 ## Result
 
-loss: 1.5982e-04 
+loss: 1.5982e-04 --
 Train Score: 47.60189 RMSE
 
 
