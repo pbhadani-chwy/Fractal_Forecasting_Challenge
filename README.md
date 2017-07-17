@@ -43,6 +43,14 @@ batch_size = 32
 loss: 1.5982e-04 <br />
 Train Score: 47.60189 RMSE
 
+## Output plot
+
+![price_result](https://user-images.githubusercontent.com/14236684/28275689-acf53376-6ae2-11e7-9346-3828d2aac9d6.PNG)
+![volume_result](https://user-images.githubusercontent.com/14236684/28275694-b0503ebc-6ae2-11e7-9152-49c469daee55.PNG)
+
+### Refer to the code for further clarity and detail of how this model is working.
+
+
 
 
 
